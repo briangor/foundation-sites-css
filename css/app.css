@@ -28,7 +28,19 @@ body {
 }
 
 .home {
-  padding: 0 3em;
+  display: flex;
+}
+
+.cards {
+  width: 95%;
+  margin: auto;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.cell-card {
+  display: flex;
+  justify-content: center;
 }
 
 .hero {
@@ -42,7 +54,7 @@ body {
 }
 
 .blog-card {
-  max-width: 90%;
+  max-width: 80%;
   height: 300px;
   cursor: pointer;
   border-radius: 10px;
@@ -73,6 +85,11 @@ body {
   font-size: 18px;
   font-weight: bolder;
   margin-bottom: 20px;
+}
+.search {
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=app.css.map */
