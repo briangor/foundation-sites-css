@@ -27,21 +27,6 @@ body {
   color: rgb(250, 245, 237);
 }
 
-/* .blog-card {
-    max-width: 90%;
-    margin-right: 10px;
-    border-radius: 10px;
-
-    &:hover {
-        border: 1px solid rgb(255, 224, 224);
-    }
-
-    img {
-        max-width: 60%;
-        height: 100%;
-        margin: auto;
-    }
-} */
 .home {
   padding: 0 3em;
 }
